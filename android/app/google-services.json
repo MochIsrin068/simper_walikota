@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "120554205349",
+    "firebase_url": "https://simper-kendari.firebaseio.com",
+    "project_id": "simper-kendari",
+    "storage_bucket": "simper-kendari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120554205349:android:0828af55699d79391d1d4c",
+        "android_client_info": {
+          "package_name": "com.technosstudio.simper_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120554205349-2jq54u3g96k8j23uo1ttpu48p4m81q2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP1Rfc-KQQ6atWjmeE2s4TS_KMchi-Z78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120554205349-2jq54u3g96k8j23uo1ttpu48p4m81q2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120554205349:android:6e098991e450468f1d1d4c",
+        "android_client_info": {
+          "package_name": "com.technosstudio.simper_walikota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120554205349-2jq54u3g96k8j23uo1ttpu48p4m81q2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP1Rfc-KQQ6atWjmeE2s4TS_KMchi-Z78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120554205349-2jq54u3g96k8j23uo1ttpu48p4m81q2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

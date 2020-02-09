@@ -1,0 +1,1 @@
+var baseUrl = 'http://simper.technos-studio.com/api/api/';
